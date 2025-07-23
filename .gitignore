@@ -1,0 +1,16 @@
+# Node
+node_modules/
+npm-debug.log
+
+# Environment files
+.env
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# React build (if you build it)
+client/build/
